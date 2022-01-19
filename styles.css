@@ -47,11 +47,6 @@ body {
    display: none;
 }
 
-.left,
-.right {
-   padding: 1rem;
-}
-
 .middle {
    grid-area: middle;
    display: grid;
